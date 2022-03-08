@@ -5,6 +5,7 @@
 + 프로젝트 주제 : MSA 환경을 기반으로 한 mini 진행관리 시스템 개발 구축
 ### 👨‍👦‍👦조원
    |천계환   |경선재 |김지혜|이원석|
+   |---|---|---|---|
    |bbororo|luppy|eddy|poby|‍
    + 조장 : [천계환 github 주소](https://github.com//CheonGyeHwan)
    + 조원 : [경선재 github 주소](https://github.com//SEONJAEK)
