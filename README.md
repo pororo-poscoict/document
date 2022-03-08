@@ -4,9 +4,10 @@
 + 팀명 : pororo
 + 프로젝트 주제 : MSA 환경을 기반으로 한 mini 진행관리 시스템 개발 구축
 ### 👨‍👦‍👦조원
-   |천계환   |경선재 |김지혜|이원석|
+   |천계환   |경선재   |김지혜   |이원석   |
    |---|---|---|---|
-   |bbororo|luppy|eddy|poby|‍
+   |bbororo|luppy|eddy|poby|
+   |[천계환 github 주소](https://github.com//CheonGyeHwan)|[경선재 github 주소](https://github.com//SEONJAEK)|[김지혜 github 주소](https://github.com/jihye1215)|[이원석 github 주소](https://github.com//wonseoks-lee)|‍
    + 조장 : [천계환 github 주소](https://github.com//CheonGyeHwan)
    + 조원 : [경선재 github 주소](https://github.com//SEONJAEK)
    + 조원 : [김지혜 github 주소](https://github.com/jihye1215)
