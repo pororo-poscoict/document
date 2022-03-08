@@ -3,11 +3,13 @@
 ## 1조 소개
 + 팀명 : pororo
 + 프로젝트 주제 : MSA 환경을 기반으로 한 mini 진행관리 시스템 개발 구축
-### 👨‍👦‍👦조원‍
-   + 조장 : [천계환 github 주소](https://github.com/orgs/pororo-poscoict/people/CheonGyeHwan)
-   + 조원 : [경선재 github 주소](https://github.com/orgs/pororo-poscoict/people/SEONJAEK)
-   + 조원 : [김지혜 github 주소](https://github.com/orgs/pororo-poscoict/people/jihye1215) 
-   + 조원 : [이원석 github 주소](https://github.com/orgs/pororo-poscoict/people/wonseoks-lee)
+### 👨‍👦‍👦조원
+   |천계환   |경선재 |김지혜|이원석|
+   |bbororo|luppy|eddy|poby|‍
+   + 조장 : [천계환 github 주소](https://github.com//CheonGyeHwan)
+   + 조원 : [경선재 github 주소](https://github.com//SEONJAEK)
+   + 조원 : [김지혜 github 주소](https://github.com/jihye1215)
+   + 조원 : [이원석 github 주소](https://github.com//wonseoks-lee)
 + 조별 규칙
    1. 모르는거 바로 물어보기
    2. 가능한 할 일은 같이 있을 때 끝내는 것을 목표로 하기
