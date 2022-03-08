@@ -3,6 +3,7 @@
 ## 1조 소개
 + 팀명 : pororo
 + 프로젝트 주제 : MSA 환경을 기반으로 한 mini 진행관리 시스템 개발 구축
++ 프로젝트 기간 📆 : 2022.03.07 ~ 2022.05.24
 ### 👨‍👦‍👦조원
    |천계환   |경선재   |김지혜   |이원석   |
    |---|---|---|---|
@@ -10,7 +11,7 @@
    |![bbororo](./image/bbororo.jpg)|![luppy](./image/luppy.jpg)|![eddy](./image/eddy.jpg)|![poby](./image/poby.jpg)|
    |[천계환 github 주소](https://github.com//CheonGyeHwan)|[경선재 github 주소](https://github.com//SEONJAEK)|[김지혜 github 주소](https://github.com/jihye1215)|[이원석 github 주소](https://github.com//wonseoks-lee)|‍
 
-+ 조별 규칙
+### ✔️ 조별 규칙
    1. 모르는거 바로 물어보기
    2. 가능한 할 일은 같이 있을 때 끝내는 것을 목표로 하기
    3. 7시 30분까지 모이기‍
