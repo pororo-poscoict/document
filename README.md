@@ -7,11 +7,9 @@
    |천계환   |경선재   |김지혜   |이원석   |
    |---|---|---|---|
    |bbororo|luppy|eddy|poby|
+   |![bbororo](./image/bbororo.jpg)|![luppy](./image/luppy.jpg)|![eddy](./image/eddy.jpg)|![poby](./image/poby.jpg)|
    |[천계환 github 주소](https://github.com//CheonGyeHwan)|[경선재 github 주소](https://github.com//SEONJAEK)|[김지혜 github 주소](https://github.com/jihye1215)|[이원석 github 주소](https://github.com//wonseoks-lee)|‍
-   + 조장 : [천계환 github 주소](https://github.com//CheonGyeHwan)
-   + 조원 : [경선재 github 주소](https://github.com//SEONJAEK)
-   + 조원 : [김지혜 github 주소](https://github.com/jihye1215)
-   + 조원 : [이원석 github 주소](https://github.com//wonseoks-lee)
+
 + 조별 규칙
    1. 모르는거 바로 물어보기
    2. 가능한 할 일은 같이 있을 때 끝내는 것을 목표로 하기
