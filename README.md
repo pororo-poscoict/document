@@ -49,10 +49,10 @@
       style(main): 코드 포맷R팅
       docs: server readme 수정 
 
-      #Dr.[FEAT]: (chat)first commit 
-      #Cap.[FIX]: (chat)스크롤 기능 수정
-      #Hul. [DOCS] : README.md
-      #Tho. [STYLE] : thunder!
+      #BBo.[FEAT]: (chat)first commit 
+      #Lup.[FIX]: (chat)스크롤 기능 수정
+      #Edd. [DOCS] : README.md
+      #Pob. [STYLE] : thunder!
       ```
 
 
